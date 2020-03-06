@@ -1,0 +1,37 @@
+.controls {
+  display: flex;
+  flex-direction: column;
+
+  padding: 25px;
+}
+
+.controls-evolution,
+.controls-initial {
+  display: flex;
+  flex-direction: column;
+
+  width: 500px;
+}
+
+.controls-field {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 12px;
+}
+
+.controls-range {
+  width: 200px;
+}
+
+.controls-reset {
+  width: 120px;
+  height: 40px;
+  margin: 0 auto 25px;
+
+  border-radius: 20px;
+
+  font-size: 24px;
+
+  cursor: pointer;
+  outline: none;
+}

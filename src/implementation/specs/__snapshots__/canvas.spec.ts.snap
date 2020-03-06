@@ -1,0 +1,395 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`canvas drawPetMap case 1  1`] = `
+Array [
+  Object {
+    "props": Object {
+      "height": 15,
+      "width": 15,
+      "x": 0,
+      "y": 0,
+    },
+    "transform": Array [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+    ],
+    "type": "clearRect",
+  },
+  Object {
+    "props": Object {
+      "height": 5,
+      "width": 5,
+      "x": 5,
+      "y": 0,
+    },
+    "transform": Array [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+    ],
+    "type": "fillRect",
+  },
+  Object {
+    "props": Object {
+      "height": 5,
+      "width": 5,
+      "x": 5,
+      "y": 5,
+    },
+    "transform": Array [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+    ],
+    "type": "fillRect",
+  },
+  Object {
+    "props": Object {
+      "height": 5,
+      "width": 5,
+      "x": 5,
+      "y": 10,
+    },
+    "transform": Array [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+    ],
+    "type": "fillRect",
+  },
+]
+`;
+
+exports[`canvas drawPetMap case 2 1`] = `
+Array [
+  Object {
+    "props": Object {
+      "height": 15,
+      "width": 15,
+      "x": 0,
+      "y": 0,
+    },
+    "transform": Array [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+    ],
+    "type": "clearRect",
+  },
+  Object {
+    "props": Object {
+      "height": 5,
+      "width": 5,
+      "x": 0,
+      "y": 0,
+    },
+    "transform": Array [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+    ],
+    "type": "fillRect",
+  },
+  Object {
+    "props": Object {
+      "height": 5,
+      "width": 5,
+      "x": 0,
+      "y": 5,
+    },
+    "transform": Array [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+    ],
+    "type": "fillRect",
+  },
+  Object {
+    "props": Object {
+      "height": 5,
+      "width": 5,
+      "x": 0,
+      "y": 10,
+    },
+    "transform": Array [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+    ],
+    "type": "fillRect",
+  },
+  Object {
+    "props": Object {
+      "height": 5,
+      "width": 5,
+      "x": 5,
+      "y": 0,
+    },
+    "transform": Array [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+    ],
+    "type": "fillRect",
+  },
+  Object {
+    "props": Object {
+      "height": 5,
+      "width": 5,
+      "x": 5,
+      "y": 5,
+    },
+    "transform": Array [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+    ],
+    "type": "fillRect",
+  },
+  Object {
+    "props": Object {
+      "height": 5,
+      "width": 5,
+      "x": 5,
+      "y": 10,
+    },
+    "transform": Array [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+    ],
+    "type": "fillRect",
+  },
+  Object {
+    "props": Object {
+      "height": 5,
+      "width": 5,
+      "x": 10,
+      "y": 0,
+    },
+    "transform": Array [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+    ],
+    "type": "fillRect",
+  },
+  Object {
+    "props": Object {
+      "height": 5,
+      "width": 5,
+      "x": 10,
+      "y": 5,
+    },
+    "transform": Array [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+    ],
+    "type": "fillRect",
+  },
+  Object {
+    "props": Object {
+      "height": 5,
+      "width": 5,
+      "x": 10,
+      "y": 10,
+    },
+    "transform": Array [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+    ],
+    "type": "fillRect",
+  },
+]
+`;
+
+exports[`canvas drawPetMap case 3 1`] = `
+Array [
+  Object {
+    "props": Object {
+      "height": 15,
+      "width": 15,
+      "x": 0,
+      "y": 0,
+    },
+    "transform": Array [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+    ],
+    "type": "clearRect",
+  },
+  Object {
+    "props": Object {
+      "height": 5,
+      "width": 5,
+      "x": 0,
+      "y": 0,
+    },
+    "transform": Array [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+    ],
+    "type": "fillRect",
+  },
+  Object {
+    "props": Object {
+      "height": 5,
+      "width": 5,
+      "x": 0,
+      "y": 5,
+    },
+    "transform": Array [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+    ],
+    "type": "fillRect",
+  },
+  Object {
+    "props": Object {
+      "height": 5,
+      "width": 5,
+      "x": 5,
+      "y": 0,
+    },
+    "transform": Array [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+    ],
+    "type": "fillRect",
+  },
+  Object {
+    "props": Object {
+      "height": 5,
+      "width": 5,
+      "x": 5,
+      "y": 10,
+    },
+    "transform": Array [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+    ],
+    "type": "fillRect",
+  },
+  Object {
+    "props": Object {
+      "height": 5,
+      "width": 5,
+      "x": 10,
+      "y": 0,
+    },
+    "transform": Array [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+    ],
+    "type": "fillRect",
+  },
+  Object {
+    "props": Object {
+      "height": 5,
+      "width": 5,
+      "x": 10,
+      "y": 5,
+    },
+    "transform": Array [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+    ],
+    "type": "fillRect",
+  },
+]
+`;
+
+exports[`canvas drawPetMap case 4 1`] = `
+Array [
+  Object {
+    "props": Object {
+      "height": 15,
+      "width": 15,
+      "x": 0,
+      "y": 0,
+    },
+    "transform": Array [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+    ],
+    "type": "clearRect",
+  },
+]
+`;
